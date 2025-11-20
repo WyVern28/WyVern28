@@ -15,7 +15,7 @@ I'm Software Engineer specialize in **Full-Stack Developer**.
 
 - **Full-Stack Development**
 - **Programming Languages:**  
-  C / C++ &nbsp; | &nbsp; Java &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; PHP &nbsp; | &nbsp; Python
+  (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)/ (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) &nbsp; | &nbsp; (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) &nbsp; | &nbsp; (https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &nbsp; | &nbsp; (https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white) &nbsp; | &nbsp; (https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=yellow)
 - **Favorite Frameworks:**  
   Laravel &nbsp; | &nbsp; React &nbsp; | &nbsp; Flask
 
@@ -50,7 +50,6 @@ I'm Software Engineer specialize in **Full-Stack Developer**.
 
 - Data Scientist
 - Computer Vision(Face Detection & Object Detection)
-- 
 
 ---
 
