@@ -11,13 +11,22 @@ I'm Software Engineer specialize in **Full-Stack Developer**.
 
 ---
 
-## 💻 Specializations & Skills
+### 💻 Specializations & Skills
 
-- **Full-Stack Development**
-- **Programming Languages:**  
-  (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)/ (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) &nbsp; | &nbsp; (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) &nbsp; | &nbsp; (https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &nbsp; | &nbsp; (https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white) &nbsp; | &nbsp; (https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=yellow)
-- **Favorite Frameworks:**  
-  Laravel &nbsp; | &nbsp; React &nbsp; | &nbsp; Flask
+![Full Stack Developer](https://img.shields.io/badge/-Full%20Stack%20Developer-blue?style=for-the-badge)
+![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-38bdf8?style=for-the-badge)
+![Web Development](https://img.shields.io/badge/-Web%20Development-0ea5e9?style=for-the-badge)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=yellow)
+
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
