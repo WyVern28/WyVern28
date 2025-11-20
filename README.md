@@ -1,8 +1,3 @@
-<!-- Banner or greeting image can be added here -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:38bdf8&height=200&section=header&text=Hi,%20I'm%20WyVern!&fontSize=40&fontAlignY=40&desc=Full-Stack%20Developer" alt="banner" />
-</p>
-
 ## 👋 Introduction
 
 <!-- Replace this greeting with your own if you want -->
