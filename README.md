@@ -57,8 +57,8 @@ I'm Software Engineer specialize in **Full-Stack Developer**.
 ---
 
 ## 📫 Contact
-- Email     : williamellio05@gmail.com
-- Instagram : @williampras_
+[![Email](https://img.shields.io/badge/Email-williamellio05@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamellio05@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@williampras__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/williampras_)
 <!--
 Edit or replace with any contact info you want to show, e.g.:
 - Email: yourmail@example.com
